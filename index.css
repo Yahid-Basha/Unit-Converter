@@ -13,6 +13,7 @@ body{
     padding: 10px;
 }
 .container{
+    margin: 50px auto;
     width: 100%;
     max-width: 550px;
     height: 285px;
